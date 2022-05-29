@@ -1,0 +1,10 @@
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.exe.config
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.exe
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\bin\Debug\Classic Snake Game.pdb
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.AssemblyReference.cache
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\obj\Debug\Classic_Snake_Game.Form1.resources
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\obj\Debug\Classic_Snake_Game.Properties.Resources.resources
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.GenerateResource.cache
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.exe
+C:\Users\KrisPC\source\repos\Classic Snake Game\Classic Snake Game\obj\Debug\Classic Snake Game.pdb
